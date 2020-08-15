@@ -1,0 +1,29 @@
+{
+  "name": "rook.id",
+  "version": "0.0.1",
+  "description": "With RookID you can create passwords or ids.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec -u tdd tests/*.js"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "^7.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xRookieFight/Rook.ID.git"
+  },
+  "keywords": [
+    "rook.id",
+    "id",
+    "rook-id",
+    "rookid"
+  ],
+  "author": "xRookieFight <xrookiefight@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xRookieFight/Rook.ID/issues"
+  },
+  "homepage": "https://github.com/xRookieFight/Rook.ID#readme"
+}
