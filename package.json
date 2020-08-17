@@ -1,6 +1,6 @@
 {
   "name": "rook.id",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "With RookID you can create passwords or ids.",
   "main": "index.js",
   "scripts": {
